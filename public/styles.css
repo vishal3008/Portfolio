@@ -186,17 +186,6 @@ body {
 }
 
 
-/*--------------------------------------------------------------ABOUT PAGE--------------------------------------------------------*/
-
-.aboutme-main {
-    background: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 100vh;
-}
-
-
 /*------------@media query-------------*/
 
 @media screen and (max-width: 600px) {
@@ -291,9 +280,5 @@ body {
     }
     .topnav .brand {
         display: none;
-    }
-    .column {
-        width: 100%;
-        height: 40vh;
     }
 }
